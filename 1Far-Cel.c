@@ -13,4 +13,6 @@ int main() {
 
     cel = 5.0*(fah-32)/9.0;
     printf("celsius: %.2f\n", cel);
+
+    printf("\n--------------------------\n");
 }
